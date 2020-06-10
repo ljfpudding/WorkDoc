@@ -1,0 +1,7 @@
+{
+    "server":"107.172.2.215",
+    "server_port":32587,
+    "password":"ljfpudding",
+    "timeout":300,
+    "method":"aes-256-cfb",
+}
